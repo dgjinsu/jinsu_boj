@@ -20,4 +20,5 @@ if compare == result:
 		print(i)
 else :
 	print("NO")
+print("practice")
 
